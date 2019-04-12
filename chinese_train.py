@@ -1,5 +1,5 @@
 from textgenrnn import textgenrnn
-textgen = textgenrnn(name="peom")
+textgen = textgenrnn(name="poem")
 
 textgen.reset()
 textgen.train_from_file(

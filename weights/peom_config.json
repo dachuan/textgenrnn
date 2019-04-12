@@ -1,0 +1,1 @@
+{"dim_embeddings": 100, "name": "peom", "max_length": 10, "max_words": 10000, "rnn_size": 128, "rnn_layers": 2, "single_text": false, "rnn_bidirectional": true, "word_level": false}
